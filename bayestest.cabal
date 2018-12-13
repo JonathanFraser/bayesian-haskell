@@ -11,5 +11,8 @@ executable bayes
   build-depends:       base,
                        monad-bayes,
                        Chart,
-                       Chart-cairo
+                       Chart-diagrams,
+                       log-domain,
+                       cassava,
+                       bytestring
 

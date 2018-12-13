@@ -39,7 +39,8 @@ extra-deps:
   - git: git@github.com:adscib/monad-bayes.git
     commit: 647ba7cb5a98ae028600f3d828828616891b40fb
   - Chart-1.9@sha256:f41568b6b3704f66c2ec163295b430ab7d798f91de426c2d5aba747d1135cd9b
-  - Chart-cairo-1.9@sha256:82875639be230c9406dbea650647b2dc94b11060160d6dad2c98551bb23d544f
+  - Chart-diagrams-1.9@sha256:cdd0c22d730e507f9644e690833096ee127302b5ff5e1571f6def419160a2642
+  - SVGFonts-1.6.0.3@sha256:54b9f889a4fb8876c3192215aff2ccd2eb8ad2b4731f63caa8f20ab6115f6bb5
 
   
 # Dependency packages to be pulled from upstream that are not in the resolver
